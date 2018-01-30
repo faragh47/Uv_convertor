@@ -1,0 +1,32 @@
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\UV_convertor.exe
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\UV_convertor.pdb
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.csprojResolveAssemblyReference.cache
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\MainWindow.baml
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\MainWindow.g.cs
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\App.g.cs
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor_MarkupCompile.cache
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.g.resources
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.Properties.Resources.resources
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.csproj.GenerateResource.Cache
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.exe
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\obj\Debug\UV_convertor.pdb
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\WPFToolkit.dll
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+c:\users\farghadani\documents\visual studio 2013\Projects\UV_convertor\UV_convertor\bin\Debug\WPFToolkit.pdb
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.exe
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.pdb
+F:\UV_convertor\UV_convertor\bin\Debug\UV_convertor.exe
+F:\UV_convertor\UV_convertor\bin\Debug\UV_convertor.pdb
+F:\UV_convertor\UV_convertor\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\UV_convertor\UV_convertor\bin\Debug\WPFToolkit.dll
+F:\UV_convertor\UV_convertor\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\UV_convertor\UV_convertor\bin\Debug\WPFToolkit.pdb
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.csprojResolveAssemblyReference.cache
+F:\UV_convertor\UV_convertor\obj\Debug\MainWindow.baml
+F:\UV_convertor\UV_convertor\obj\Debug\MainWindow.g.cs
+F:\UV_convertor\UV_convertor\obj\Debug\App.g.cs
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor_MarkupCompile.cache
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.g.resources
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.Properties.Resources.resources
+F:\UV_convertor\UV_convertor\obj\Debug\UV_convertor.csproj.GenerateResource.Cache
